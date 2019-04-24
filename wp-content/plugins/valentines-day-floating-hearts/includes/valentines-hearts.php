@@ -18,7 +18,7 @@ function dc_valentines_heart() {
 	<!-- xmas_heart [ start ] -->
 	<script type="text/javascript">
 	// Set the number of heart (more than 30 - 40 not recommended)
-	var heartmax=20
+	var heartmax=30
 	// Set the colors for the heart. Add as many colors as you like
 	var heartcolor=new Array("#c6041b", "#e10027", "#E1001c", "#C10227", "#Ea002d", "#ed1c38")
 	// Set the fonts, that create the heartflakes. Add as many fonts as you like
